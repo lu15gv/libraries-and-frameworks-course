@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of StaticLinkingExample
+
+Variant: StaticLinkingExample-7D6D867C-2E81-4259-A134-B377DF07FD36.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], and [device: iPhone10,5, os-version: 14.0]
+App + On Demand Resources size: 7.1 MB compressed, 19.2 MB uncompressed
+App size: 7.1 MB compressed, 19.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

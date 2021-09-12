@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of DynamicLinkingExample
+
+Variant: DynamicLinkingExample-52F733E1-DBD6-4A81-8C3A-2B4C9CF78D9B.ipa
+Supported variant descriptors: [device: iPhone13,3, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone10,5, os-version: 14.0], and [device: iPhone11,2, os-version: 14.0]
+App + On Demand Resources size: 9.1 MB compressed, 25.1 MB uncompressed
+App size: 9.1 MB compressed, 25.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
