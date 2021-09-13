@@ -6,12 +6,14 @@
 //
 
 import UIKit
+//import SwiftFramework
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+//        SwiftClass.pi(decimals: 10)
     }
 
 

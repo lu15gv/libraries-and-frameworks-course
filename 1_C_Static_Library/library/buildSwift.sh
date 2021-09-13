@@ -28,6 +28,7 @@ archive() {
   -configuration $CONFIGURATION \
   -sdk $SDK \
   -arch $ARCH \
+  BUILD_LIBRARY_FOR_DISTRIBUTION=NO \
   SKIP_INSTALL=NO | xcbeautify
 }
 
