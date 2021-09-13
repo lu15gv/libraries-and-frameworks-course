@@ -30,7 +30,7 @@ archive() {
   -arch $ARCH \
   SKIP_INSTALL=NO \
   BUILD_LIBRARY_FOR_DISTRIBUTION=YES \
-  MACH_O_TYPE=staticlib | xcbeautify
+  MACH_O_TYPE=mh_dylib | xcbeautify
 }
 
 echo_section "Cleaning"

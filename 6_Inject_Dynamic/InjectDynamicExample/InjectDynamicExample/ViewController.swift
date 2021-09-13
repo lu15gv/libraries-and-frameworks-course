@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         // 4.- Creating an object from the module name and target class: Module.Class
         guard let nsObjectType = NSClassFromString("SwiftFramework.Provider") as? NSObject.Type else { return }
         let nsObject = nsObjectType.init()
-        // 5.- Executing methods of the NSObject and getting the returned object (an unmanaged object)
+        // 5.- Executing methods of the nsObject and getting the returned object (an unmanaged object)
         let unmanagedObject = nsObject.perform(Selector("getNextViewController"))
         // 6.- Casting the unmanaged object to the target object
         guard let viewController = unmanagedObject?.takeUnretainedValue() as? UIViewController else { return }
