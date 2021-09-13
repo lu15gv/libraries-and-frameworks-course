@@ -28,6 +28,7 @@ archive() {
   -configuration $CONFIGURATION \
   -sdk $SDK \
   -arch $ARCH \
+  MACH_O_TYPE=staticlib \
   SKIP_INSTALL=NO | xcbeautify
 }
 
